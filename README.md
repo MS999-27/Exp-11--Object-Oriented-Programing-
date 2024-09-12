@@ -145,7 +145,8 @@ int main()
 
 ## USER CLASS
 
-![Exp 11 Class from user](https://github.com/user-attachments/assets/c82a73fa-a1c2-4883-8649-0a4c992e6b35)
+![EXP 9 ECO SPORT](https://github.com/user-attachments/assets/0dd9b241-9632-4133-99b7-5bb9064921c3)
+
 
 # Conclusion
 We learnt to declare class.
